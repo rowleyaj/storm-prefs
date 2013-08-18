@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UsagesStatistic" time="1376842591127" allowed="true" show-notification="false" period="weekly">
+    <group id="Command line tool" priority="0.0" data="console in toolwindow=1" />
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=1" />
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Darcula=1" />
+    <group id="disabled-plugins" priority="0.0" data="com.jetbrains.plugins.asp=1,Subversion=1,CVS=1,org.jetbrains.plugins.textmate=1,com.jetbrains.plugins.webDeployment=1,org.jetbrains.plugins.less=1,com.intellij.jsp=1,Refactor-X=1,XSLT-Debugger=1,org.coffeescript=1,org.jetbrains.plugins.haml=1,PerforceDirectPlugin=1,cucumber=1,org.jetbrains.plugins.rest=1,XPathView=1,hg4idea=1,org.jetbrains.plugins.localization=1,com.jetbrains.php.framework.structure=1" />
+    <group id="features counts" priority="0.0" data="uml.ShowDiagram.DIFF.popup=3,execute.PhpLocalRunConfigurationType.Debug=2,execute.PhpWebAppRunConfigurationType.Debug=2,execute.PhpLocalRunConfigurationType.Run=11,CreateFile.CreateFileAction=1,execute.PhpWebAppRunConfigurationType.Run=2" />
+    <group id="file-type" priority="0.0" data="DTD=1,HTML=1,PHP=1,YAML=1,SQL=1,PLAIN_TEXT=1,DATASOURCE_STORAGE=1,UNKNOWN=1,JavaScript=1,PHAR=1,SmartyConfig=1,JSON=1,CSS=1,Images=1,XML=1,JSHint=1,Native=1" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=2" />
+    <group id="jdbc-datasource" priority="0.0" data="MySQL/5.5.32-log=1" />
+    <group id="jdbc-driver" priority="0.0" data="com.mysql.jdbc.Driver=1" />
+    <group id="module type" priority="0.0" data="WEB_MODULE=1" />
+    <group id="non-bundled-plugins" priority="0.0" data="Shortcut Translator=1,com.intellij=1" />
+    <group id="php-debug-skipped-paths" priority="0.0" data="0=1" />
+    <group id="php-include-path" priority="0.0" data="1=1" />
+    <group id="php-interpreter-debug-ext" priority="0.0" data="xdebug=1" />
+    <group id="php-interpreter-version" priority="0.0" data="5.3.26=1" />
+    <group id="php-interpreters" priority="0.0" data="1=1" />
+    <group id="php-server-debug-ext" priority="0.0" data="xdebug=1" />
+    <group id="php-servers" priority="0.0" data="1=1" />
+    <group id="productivity" priority="0.0" data="ui.tree.speedsearch=8,navigation.popup.action=6,navigation.goto.declaration=22,codeassists.comment.block=4,editing.completion.basic=24,editing.completion.finishByCtrlDot=1,navigation.popup.file=15,editing.select.word=39,editing.completion.finishByControlEnter=3,editing.completion.replace=7,codeassists.comment.line=7,ui.horizontal.scrolling=1,codeassists.quickjavadoc=20,navigation.popup.symbol=2,refactoring.rename=3,navigation.popup.class=18,refactoring.introduceVariable=2,navigation.popup.camelprefix=1" />
+    <group id="run-configuration-type" priority="0.0" data="PhpWebAppRunConfigurationType=1" />
+    <group id="vcs" priority="0.0" data="Git=1" />
+  </component>
+</application>
+

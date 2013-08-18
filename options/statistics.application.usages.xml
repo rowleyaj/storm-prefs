@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="WebIde60" values="Git" />
+      <project id="php-api" values="Git" />
+    </group>
+    <group name="Command line tool">
+      <project id="php-api" values="console in toolwindow" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="php-api" values="xdebug" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="php-api" values="MySQL/5.5.32-log" />
+    </group>
+    <group name="php-interpreters">
+      <project id="WebIde60" values="1" />
+      <project id="php-api" values="1" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="WebIde60" values="not installed" />
+      <project id="php-api" values="5.3.26" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="php-api" values="PhpWebAppRunConfigurationType" />
+    </group>
+    <group name="deployment server">
+      <project id="php-api" values="LOCAL" />
+    </group>
+    <group name="module type">
+      <project id="WebIde60" values="WEB_MODULE" />
+      <project id="php-api" values="WEB_MODULE" />
+    </group>
+    <group name="php-servers">
+      <project id="WebIde60" values="0" />
+      <project id="php-api" values="1" />
+    </group>
+    <group name="php-include-path">
+      <project id="WebIde60" values="0" />
+      <project id="php-api" values="1" />
+    </group>
+    <group name="php-server-debug-ext">
+      <project id="php-api" values="xdebug" />
+    </group>
+    <group name="file-type">
+      <project id="WebIde60" values="UNKNOWN,ARCHIVE,PLAIN_TEXT,XML" />
+      <project id="php-api" values="DTD,Images,JSHint,JavaScript,YAML,PHP,UNKNOWN,XML,PLAIN_TEXT,SmartyConfig,SQL,PHAR,JSON,DATASOURCE_STORAGE,CSS,Native,HTML" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="WebIde60" values="Project,Project" />
+      <project id="php-api" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="WebIde60" values="DEFAULT" />
+      <project id="php-api" values="DEFAULT" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="WebIde60" values="0" />
+      <project id="php-api" values="0" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="php-api" values="com.mysql.jdbc.Driver" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="2" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Run" count="11" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="2" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="2" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="3" />
+    </counts>
+  </component>
+</application>
+
