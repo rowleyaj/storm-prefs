@@ -2,7 +2,12 @@
 <application>
   <component name="ExportableTemplateSettings">
     <option name="deletedKeys">
-      <list />
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="PHP" />
+          <option name="key" value="fore" />
+        </TemplateKey>
+      </list>
     </option>
   </component>
 </application>

@@ -6,41 +6,46 @@
     <location key="#Interpreters.0.0.1440.900" x="330" y="119" />
     <location key="git4idea.ui.branch.GitCompareBranchesDialog.0.0.1440.900" x="55" y="22" />
     <location key="VCS.ChangeListViewerDialog.0.0.1440.900" x="535" y="181" />
-    <location key="VCS.EditChangelistDialog.0.0.1440.900" x="585" y="338" />
     <location key="#Custom_Plugin_Repositories.0.0.1440.900" x="578" y="285" />
+    <location key="VCS.EditChangelistDialog.0.0.1440.900" x="585" y="338" />
     <location key="ProcessPopupWindow.0.0.1440.900" x="961" y="562" />
+    <location key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1.0.0.1440.900" x="523" y="237" />
     <location key="#CampaignSnapshot.php.0.0.1440.900" x="487" y="162" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1440.900" x="462" y="263" />
     <location key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.1440.900" x="570" y="279" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="560" y="199" />
-    <location key="WELCOME_SCREEN.0.0.1440.900" x="747" y="439" />
     <location key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#0.0.0.1440.900" x="715" y="299" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="300" />
     <location key="#Inspections.0.0.1440.900" x="385" y="149" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="492" y="268" />
     <location key="IgnoredSettingsDialog.0.0.1440.900" x="636" y="334" />
     <location key="NewPhpClassDialog.0.0.1440.900" x="585" y="295" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" x="155" y="122" />
     <location key="ZendPathDialog.0.0.1440.900" x="573" y="383" />
-    <location key="OptionsEditor.0.0.1440.900" x="104" y="231" />
+    <location key="Git.Log.Tree.Goto.0.0.1440.900" x="571" y="757" />
+    <location key="OptionsEditor.0.0.1440.900" x="143" y="80" />
     <location key="FrameworkRunConsoleActionPopup.0.0.1440.900" x="597" y="427" />
     <location key="FileChooserDialogImpl.0.0.1440.900" x="890" y="205" />
     <location key="git4idea.ui.GitResetDialog.0.0.1440.900" x="554" y="368" />
     <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1440.900" x="571" y="387" />
-    <location key="ComposerPathDialog.0.0.1440.900" x="436" y="394" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1440.900" x="585" y="93" />
+    <location key="ComposerPathDialog.0.0.1440.900" x="436" y="394" />
     <location key="#Browse_Repositories.0.0.1440.900" x="307" y="63" />
-    <location key="DiffWindow.0.0.1440.900" x="155" y="122" />
+    <location key="DiffWindow.0.0.1440.900" x="1601" y="164" />
     <location key="com.intellij.persistence.database.view.ui.DeleteDialog.0.0.1440.900" x="555" y="357" />
-    <location key="CommitChangelistDialog.0.0.1440.900" x="402" y="163" />
-    <location key="#Notifications.0.0.1440.900" x="509" y="206" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="212" y="124" />
-    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="498" y="356" />
+    <location key="#Notifications.0.0.1440.900" x="509" y="206" />
+    <location key="CommitChangelistDialog.0.0.1440.900" x="402" y="163" />
+    <location key="NewPhpFileDialog.0.0.1440.900" x="566" y="394" />
     <location key="findTextDialog.0.0.1440.900" x="541" y="237" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="498" y="356" />
     <location key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog.0.0.1440.900" x="55" y="22" />
     <location key="SimpleOpenTaskDialog.0.0.1440.900" x="585" y="403" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1440.900" x="509" y="178" />
     <location key="PHPComposerAddDependencyDialogDimensionKey.0.0.1440.900" x="507" y="278" />
     <location key="#Servers.0.0.1440.900" x="335" y="124" />
-    <location key="VCS.ChangelistChooser.0.0.1440.900" x="570" y="302" />
     <location key="#PHP.0.0.1440.900" x="509" y="136" />
+    <location key="VCS.ChangelistChooser.0.0.1440.900" x="570" y="302" />
     <location key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog.0.0.1440.900" x="55" y="266" />
     <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.1440.900" x="392" y="182" />
     <size key="com.intellij.javaee.module.view.dataSource.DataSourcePropertiesDialog.0.0.1440.900" width="552" height="721" />
@@ -56,14 +61,15 @@
     <size key="javadoc.popup.0.0.1440.900" width="514" height="329" />
     <size key="GridCell.Tab.0.right.0.0.1440.900" width="1185" height="656" />
     <size key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog.0.0.1440.900" width="1385" height="878" />
-    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1026" height="169" />
     <size key="GridCell.Tab.1.right.0.0.1440.900" width="1026" height="169" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1026" height="169" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" width="1185" height="678" />
+    <size key="Git.Log.Tree.Goto.0.0.1440.900" width="374" height="60" />
     <size key="OptionsEditor.0.0.1440.900" width="1164" height="659" />
     <size key="FrameworkRunConsoleActionPopup.0.0.1440.900" width="415" height="186" />
     <size key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog.0.0.1440.900" width="1385" height="387" />
-    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1440.900" width="431" height="148" />
     <size key="GridCell.Tab.0.left.0.0.1440.900" width="1185" height="656" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1440.900" width="431" height="148" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
@@ -76,14 +82,14 @@
     <property name="favorites.view.settings.flatten.packages" value="false" />
     <property name="clt.console.in.toolwindow" value="true" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
-    <property name="favorites.view.settings.show.members" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="favorites.view.settings.show.members" value="false" />
     <property name="evlsprt3.6" value="19" />
-    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
-    <property name="file.colors.enable.non.project" value="494539" />
-    <property name="ShortcutTranslatorSourceKeymap" value="Mac OS X 10.5+" />
     <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="ShortcutTranslatorSourceKeymap" value="Mac OS X 10.5+" />
+    <property name="file.colors.enable.non.project" value="494539" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="RunConfigurable.dividerProportion" value="0.3" />
     <property name="PLUGIN_FILTER" value="stylus" />
     <property name="PhpStorm.initialConfigurationShown" value="true" />
@@ -98,23 +104,23 @@
     <property name="FileTemplates.SelectedTemplate" value="PHP Setter Method" />
     <property name="favorites.view.settings.autoscroll.from.source" value="false" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.8" />
-    <property name="PhpStorm.InitialConfiguration" value="true" />
     <property name="Non-Project Files" value="494539" />
-    <property name="installation.uid" value="8ffba968-0b45-4875-a179-7025f4bee416" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
     <property name="com.intellij.persistence.database.view.ui.DeleteDialog.previewExpanded" value="true" />
-    <property name="AssociationsEditor.dividerProportion" value="0.3" />
+    <property name="installation.uid" value="8ffba968-0b45-4875-a179-7025f4bee416" />
     <property name="favorites.view.settings.autoscroll.to.source" value="false" />
-    <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
-    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="AssociationsEditor.dividerProportion" value="0.3" />
     <property name="ShortcutTranslatorTargetKeymap" value="Mac OS X" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="favorites.view.settings.hide.empty.middle.packages" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="favorites.view.settings.hide.empty.middle.packages" value="true" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/Library/Application Support/PhpStorm/MySQL&#10;/Users/Alex/Development/php-api/vendor/zendframework/zendframework1/bin/zf.sh" />
     <property name="LayoutCode.rearrangeEntries" value="false" />
     <property name="LayoutCode.optimizeImports" value="false" />
-    <property name="ColorChooser.RecentColors" value="25-128-25-255,,,169-183-1-255,,,169-183-198-255,,,204-103-20-255,,,188-63-60-255" />
+    <property name="ColorChooser.RecentColors" value="25-128-25-255,,,169-183-1-255,,,169-183-198-255,,,204-103-20-255,,,188-63-60-255,,,245-11-10-255,,,182-63-61-255" />
   </component>
 </application>
 

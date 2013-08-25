@@ -4,7 +4,11 @@
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
       <mapping pattern="ts" type="PLAIN_TEXT" />
+      <mapping pattern="head" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

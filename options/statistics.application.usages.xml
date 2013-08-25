@@ -44,33 +44,33 @@
       <project id="php-api" values="xdebug" />
     </group>
     <group name="file-type">
-      <project id="WebIde60" values="UNKNOWN,ARCHIVE,PLAIN_TEXT,XML" />
-      <project id="php-api" values="DTD,Images,JSHint,JavaScript,YAML,PHP,UNKNOWN,XML,PLAIN_TEXT,SmartyConfig,SQL,PHAR,JSON,DATASOURCE_STORAGE,CSS,Native,HTML" />
+      <project id="WebIde60" values="UNKNOWN,XML,PLAIN_TEXT,ARCHIVE,PHP" />
+      <project id="php-api" values="PLAIN_TEXT,SQL,Native,DTD,DATASOURCE_STORAGE,PHAR,Smarty,XML,YAML,UNKNOWN,SmartyConfig,HTML,JSON,SCSS,PHP,JavaScript,CSS,JSHint,Images" />
     </group>
-    <group name="javaScript Scope Usages">
-      <project id="WebIde60" values="Project,Project" />
-      <project id="php-api" values="Project,Project" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="WebIde60" values="DEFAULT" />
-      <project id="php-api" values="DEFAULT" />
+    <group name="jdbc-driver">
+      <project id="php-api" values="com.mysql.jdbc.Driver" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="WebIde60" values="0" />
       <project id="php-api" values="0" />
     </group>
-    <group name="jdbc-driver">
-      <project id="php-api" values="com.mysql.jdbc.Driver" />
+    <group name="JavaScript versions">
+      <project id="WebIde60" values="DEFAULT" />
+      <project id="php-api" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="WebIde60" values="Project,Project" />
+      <project id="php-api" values="Project,Project" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="CreateFile.CreateFileAction" count="10" />
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="2" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="11" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="2" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="2" />
-      <entry feature="uml.ShowDiagram.DIFF.popup" count="3" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="5" />
     </counts>
   </component>
 </application>
