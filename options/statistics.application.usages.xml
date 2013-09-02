@@ -3,7 +3,11 @@
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
       <project id="WebIde60" values="Git" />
+      <project id="hieradata-production" values="Git" />
+      <project id="Operations" values="Git" />
+      <project id="puppetcode" values="Git" />
       <project id="php-api" values="Git" />
+      <project id="hieradata-development" values="Git" />
     </group>
     <group name="Command line tool">
       <project id="php-api" values="console in toolwindow" />
@@ -16,11 +20,23 @@
     </group>
     <group name="php-interpreters">
       <project id="WebIde60" values="1" />
+      <project id="hieradata-production" values="1" />
+      <project id="Operations" values="1" />
+      <project id="puppetcode" values="1" />
       <project id="php-api" values="1" />
+      <project id="hieradata-development" values="1" />
+      <project id="untitled" values="1" />
+      <project id="Development" values="1" />
     </group>
     <group name="php-interpreter-version">
       <project id="WebIde60" values="not installed" />
+      <project id="hieradata-production" values="not installed" />
+      <project id="Operations" values="not installed" />
+      <project id="puppetcode" values="not installed" />
       <project id="php-api" values="5.3.26" />
+      <project id="hieradata-development" values="not installed" />
+      <project id="untitled" values="not installed" />
+      <project id="Development" values="not installed" />
     </group>
     <group name="run-configuration-type">
       <project id="php-api" values="PhpWebAppRunConfigurationType" />
@@ -30,42 +46,85 @@
     </group>
     <group name="module type">
       <project id="WebIde60" values="WEB_MODULE" />
+      <project id="hieradata-production" values="WEB_MODULE" />
+      <project id="Operations" values="WEB_MODULE" />
+      <project id="puppetcode" values="WEB_MODULE" />
       <project id="php-api" values="WEB_MODULE" />
+      <project id="hieradata-development" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+      <project id="Development" values="WEB_MODULE" />
     </group>
     <group name="php-servers">
       <project id="WebIde60" values="0" />
+      <project id="hieradata-production" values="0" />
+      <project id="Operations" values="0" />
+      <project id="puppetcode" values="0" />
       <project id="php-api" values="1" />
+      <project id="hieradata-development" values="0" />
+      <project id="untitled" values="0" />
+      <project id="Development" values="0" />
     </group>
     <group name="php-include-path">
       <project id="WebIde60" values="0" />
+      <project id="hieradata-production" values="0" />
+      <project id="Operations" values="0" />
+      <project id="puppetcode" values="0" />
       <project id="php-api" values="1" />
+      <project id="hieradata-development" values="0" />
+      <project id="untitled" values="0" />
+      <project id="Development" values="0" />
     </group>
     <group name="php-server-debug-ext">
       <project id="php-api" values="xdebug" />
     </group>
     <group name="file-type">
-      <project id="WebIde60" values="UNKNOWN,XML,PLAIN_TEXT,ARCHIVE,PHP" />
-      <project id="php-api" values="PLAIN_TEXT,SQL,Native,DTD,DATASOURCE_STORAGE,PHAR,Smarty,XML,YAML,UNKNOWN,SmartyConfig,HTML,JSON,SCSS,PHP,JavaScript,CSS,JSHint,Images" />
+      <project id="WebIde60" values="ARCHIVE,PHP,UNKNOWN,PLAIN_TEXT,XML" />
+      <project id="hieradata-production" values="YAML,PLAIN_TEXT,XML,UNKNOWN" />
+      <project id="Operations" values="CSS,PLAIN_TEXT,YAML,XML,SmartyConfig,Smarty,PHP,UNKNOWN,SQL,Perl" />
+      <project id="puppetcode" values="PHP,Puppet,UNKNOWN,JSON,PLAIN_TEXT,SmartyConfig,XML" />
+      <project id="php-api" values="SCSS,Native,PHAR,PHP,SmartyConfig,UNKNOWN,JavaScript,CSS,HTML,PLAIN_TEXT,JSHint,DTD,Smarty,SQL,YAML,DATASOURCE_STORAGE,JSON,Images,XML" />
+      <project id="hieradata-development" values="YAML,PLAIN_TEXT,XML,UNKNOWN" />
+      <project id="untitled" values="UNKNOWN,HTML,XML,CSS,JavaScript,PLAIN_TEXT" />
+      <project id="Development" values="XML,DTD,Native,SmartyConfig,ARCHIVE,CSS,SQL,PHP,SCSS,PLAIN_TEXT,JSON,PHAR,htaccess,HTML,TypeScript,UNKNOWN,JavaScript,YAML,DATASOURCE_STORAGE,JSHint,Images,XHTML,Smarty" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="WebIde60" values="Project,Project" />
+      <project id="hieradata-production" values="Project,Project" />
+      <project id="Operations" values="Project,Project" />
+      <project id="puppetcode" values="Project,Project" />
+      <project id="php-api" values="Project,Project" />
+      <project id="hieradata-development" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+      <project id="Development" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="WebIde60" values="DEFAULT" />
+      <project id="hieradata-production" values="DEFAULT" />
+      <project id="Operations" values="DEFAULT" />
+      <project id="puppetcode" values="DEFAULT" />
+      <project id="php-api" values="DEFAULT" />
+      <project id="hieradata-development" values="DEFAULT" />
+      <project id="untitled" values="DEFAULT" />
+      <project id="Development" values="DEFAULT" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="WebIde60" values="0" />
+      <project id="hieradata-production" values="0" />
+      <project id="Operations" values="0" />
+      <project id="puppetcode" values="0" />
+      <project id="php-api" values="0" />
+      <project id="hieradata-development" values="0" />
+      <project id="untitled" values="0" />
+      <project id="Development" values="0" />
     </group>
     <group name="jdbc-driver">
       <project id="php-api" values="com.mysql.jdbc.Driver" />
     </group>
-    <group name="php-debug-skipped-paths">
-      <project id="WebIde60" values="0" />
-      <project id="php-api" values="0" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="WebIde60" values="DEFAULT" />
-      <project id="php-api" values="DEFAULT" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="WebIde60" values="Project,Project" />
-      <project id="php-api" values="Project,Project" />
-    </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="10" />
+      <entry feature="CreateFile.CreateFileAction" count="13" />
+      <entry feature="NewDirectoryProjectAction.Foundation" count="1" />
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="2" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="11" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="2" />

@@ -71,58 +71,62 @@
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="uri" />
-          <item index="1" class="java.lang.String" itemvalue="getdefa" />
-          <item index="2" class="java.lang.String" itemvalue="TrackingCookieDomain" />
-          <item index="3" class="java.lang.String" itemvalue="duplicated" />
-          <item index="4" class="java.lang.String" itemvalue="getTestPost" />
-          <item index="5" class="java.lang.String" itemvalue="        " />
-          <item index="6" class="java.lang.String" itemvalue="    " />
-          <item index="7" class="java.lang.String" itemvalue="&#9;" />
-          <item index="8" class="java.lang.String" itemvalue="repeata" />
-          <item index="9" class="java.lang.String" itemvalue="create table `eventlog" />
-          <item index="10" class="java.lang.String" itemvalue="create_site" />
-          <item index="11" class="java.lang.String" itemvalue="event_create_site" />
-          <item index="12" class="java.lang.String" itemvalue="-&gt;setEvent(" />
-          <item index="13" class="java.lang.String" itemvalue="put" />
-          <item index="14" class="java.lang.String" itemvalue="depl" />
-          <item index="15" class="java.lang.String" itemvalue="proxy" />
-          <item index="16" class="java.lang.String" itemvalue="deplo" />
-          <item index="17" class="java.lang.String" itemvalue="logEditEvents" />
-          <item index="18" class="java.lang.String" itemvalue="DeployHelper" />
-          <item index="19" class="java.lang.String" itemvalue="store" />
-          <item index="20" class="java.lang.String" itemvalue="deployment" />
-          <item index="21" class="java.lang.String" itemvalue="log" />
-          <item index="22" class="java.lang.String" itemvalue="getUndeployed" />
-          <item index="23" class="java.lang.String" itemvalue="BOOL" />
-          <item index="24" class="java.lang.String" itemvalue="event" />
-          <item index="25" class="java.lang.String" itemvalue="eventlog" />
-          <item index="26" class="java.lang.String" itemvalue="tst" />
-          <item index="27" class="java.lang.String" itemvalue="getProgress" />
-          <item index="28" class="java.lang.String" itemvalue="require" />
-          <item index="29" class="java.lang.String" itemvalue="require_once" />
+          <item index="0" class="java.lang.String" itemvalue="route" />
+          <item index="1" class="java.lang.String" itemvalue="tableau" />
+          <item index="2" class="java.lang.String" itemvalue="tablea" />
+          <item index="3" class="java.lang.String" itemvalue="debug" />
+          <item index="4" class="java.lang.String" itemvalue="priority" />
+          <item index="5" class="java.lang.String" itemvalue="st0" />
+          <item index="6" class="java.lang.String" itemvalue="featureSwitch" />
+          <item index="7" class="java.lang.String" itemvalue="build" />
+          <item index="8" class="java.lang.String" itemvalue="data" />
+          <item index="9" class="java.lang.String" itemvalue="ta" />
+          <item index="10" class="java.lang.String" itemvalue="test" />
+          <item index="11" class="java.lang.String" itemvalue="enabled" />
+          <item index="12" class="java.lang.String" itemvalue="835" />
+          <item index="13" class="java.lang.String" itemvalue="du" />
+          <item index="14" class="java.lang.String" itemvalue="tagmanda" />
+          <item index="15" class="java.lang.String" itemvalue="tagmandata" />
+          <item index="16" class="java.lang.String" itemvalue="memory" />
+          <item index="17" class="java.lang.String" itemvalue="deployment request failed" />
+          <item index="18" class="java.lang.String" itemvalue="session_start()" />
+          <item index="19" class="java.lang.String" itemvalue="Error connecting to the external Client Creation service base URL" />
+          <item index="20" class="java.lang.String" itemvalue="Read timed out after 10 seconds" />
+          <item index="21" class="java.lang.String" itemvalue="  " />
+          <item index="22" class="java.lang.String" itemvalue="producti" />
+          <item index="23" class="java.lang.String" itemvalue="assets" />
+          <item index="24" class="java.lang.String" itemvalue="max" />
+          <item index="25" class="java.lang.String" itemvalue="dbinit" />
+          <item index="26" class="java.lang.String" itemvalue="ov" />
+          <item index="27" class="java.lang.String" itemvalue="production" />
+          <item index="28" class="java.lang.String" itemvalue="rules" />
+          <item index="29" class="java.lang.String" itemvalue="fbc" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
-        <list size="3">
+        <list size="4">
           <item index="0" class="java.lang.String" itemvalue="trusted/" />
           <item index="1" class="java.lang.String" itemvalue="  " />
           <item index="2" class="java.lang.String" itemvalue="    " />
+          <item index="3" class="java.lang.String" itemvalue="tm_mc::" />
         </list>
       </value>
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
-        <list size="7">
+        <list size="10">
           <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/application/controllers" />
           <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/application/configs" />
           <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/application/services" />
           <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/data/dbdeploy/deltas" />
-          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/application" />
-          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api" />
-          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/library/TagMan" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/library/TagMan" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/build" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/vendor/zendframework" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/library" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/Development/php-api/application" />
         </list>
       </value>
     </option>
@@ -165,17 +169,30 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/Development/php-api" />
+        <option value="$USER_HOME$/Development/Operations" />
+        <option value="$USER_HOME$/Development/untitled" />
+        <option value="$USER_HOME$/Development/puppetcode" />
+        <option value="$USER_HOME$/Development/hieradata-production" />
+        <option value="$USER_HOME$/Development/hieradata-development" />
+        <option value="$USER_HOME$/Development" />
         <option value="$USER_HOME$/Library/Preferences/WebIde60" />
       </list>
     </option>
     <option name="openPaths">
       <list>
+        <option value="$USER_HOME$/Development/hieradata-development" />
+        <option value="$USER_HOME$/Development/hieradata-production" />
+        <option value="$USER_HOME$/Development/Operations" />
         <option value="$USER_HOME$/Development/php-api" />
       </list>
     </option>
     <option name="names">
       <map>
-        <entry key="$USER_HOME$/Development/php-api" value="" />
+        <entry key="$USER_HOME$/Development" value="" />
+        <entry key="$USER_HOME$/Development/hieradata-development" value="" />
+        <entry key="$USER_HOME$/Development/hieradata-production" value="" />
+        <entry key="$USER_HOME$/Development/puppetcode" value="" />
+        <entry key="$USER_HOME$/Development/untitled" value="" />
         <entry key="$USER_HOME$/Library/Preferences/WebIde60" value="" />
       </map>
     </option>
@@ -224,7 +241,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1377447661078" />
+    <option name="LAST_TIME_CHECKED" value="1378035956411" />
     <option name="LAST_BUILD_CHECKED" value="PS-129.814" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
@@ -282,15 +299,15 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />

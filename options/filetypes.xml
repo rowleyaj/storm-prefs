@@ -5,9 +5,12 @@
     <extensionMap>
       <mapping pattern="ts" type="PLAIN_TEXT" />
       <mapping pattern="head" type="PLAIN_TEXT" />
-      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="hotfix" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
